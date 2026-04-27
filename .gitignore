@@ -1,0 +1,7 @@
+new_env/
+yolov8n.pt
+ePillID_data/
+__pycache__/
+*.pyc
+.vscode/
+Thumbs.db
